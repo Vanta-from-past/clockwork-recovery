@@ -1,0 +1,6 @@
+{
+  "event": "clockwork-96h-v1",
+  "station": "between-seconds",
+  "requires_history": true,
+  "format": "five-plates-three-trials"
+}
